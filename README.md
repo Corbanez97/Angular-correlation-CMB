@@ -13,4 +13,6 @@ Aqui criaremos um notebook com uma exploração profunda das equações de Fried
 
 #Constante de Hubble e idade do universo - check
 
+#a_dot e idade do universo - check
+
 #Substituir o redshift pelo tempo próprio \eta
