@@ -1,0 +1,128 @@
+## Variáveis e funções:
+
+1- Fator de escala em função do tempo:
+
+time;
+
+Friedmann(função);
+
+Param;
+
+scale_factor;
+
+2 - Constante de Hubble em função do fator de escala:
+
+$>>>a$;
+
+$>>>Hubble$;
+
+H_a(função);
+
+$>>>H$;
+
+3 - Constante de Hubble em função do redshift:
+
+z;
+
+$>>>Hubble$;
+
+H_z(função);
+
+$>>>H$;
+
+4 - Dependência da constante de Hubble com a idade do Universo:
+
+Hubble_t;
+
+5 - $\dot{a}$ em função do tempo:
+
+a_dot;
+
+aH_a(função);
+
+6 - Evolução de densidade de energia em função do fator de escala:
+
+sf_ed;
+
+mat_a;
+
+radi_a;
+
+dark_a;
+
+7 - Evolução da densidade de energia em função do tempo:
+
+mat_t;
+
+radi_t;
+
+dark_t;
+
+8 - Evolução da densidade de energia em função do redshift:
+
+redshift_ed;
+
+mat_z;
+
+radi_z;
+
+dark_z;
+
+9 - $\eta$ em função do fator de escala:
+
+sf_scale(função);
+
+eta;
+
+$>>>a$;
+
+I1;
+
+10 - $\eta$ em função do redshift:
+
+eta_red(função);
+
+redshift_eta;
+
+eta_z;
+
+I1;
+
+11 - ?
+
+eta_scale(função);
+
+time_eta;
+
+eta_t;
+
+
+12 - Constante de Hubble em função do tempo confome:
+
+Hubble_eta;
+
+H_eta;
+
+13 - Evolução da energia em função do tempo conforme:
+
+mat_eta;
+
+radi_eta;
+
+dark_eta;
+
+14 - Distância comóvel:
+
+redshift_dist;
+
+comoving_dist;
+
+comoving_distance(função);
+
+15 - Distância Luminosa:
+
+light_dist;
+
+16 - Distância angular;
+
+angular_dist;
