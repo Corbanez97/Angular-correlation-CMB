@@ -7,7 +7,7 @@ Aqui criaremos um notebook com uma exploração profunda das equações de Fried
 
 #Densidade das espécies e fator de escala - check
 
-#Densidade das espécies e redshift 
+#Densidade das espécies e redshift - check
 
 #Constante de Hubble e redshift - check
 
@@ -15,4 +15,4 @@ Aqui criaremos um notebook com uma exploração profunda das equações de Fried
 
 #a_dot e idade do universo - check
 
-#Substituir o redshift pelo tempo próprio \eta
+#Substituir o redshift pelo tempo próprio \eta - check
